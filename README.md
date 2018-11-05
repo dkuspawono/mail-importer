@@ -88,4 +88,4 @@ java -jar ./target/mail-importer-1.0-SNAPSHOT-jar-with-dependencies.jar \
 
 ## Can I help make _Mail Importer_ better?
 
-You bet! See the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information.
+Anda bertaruh! Lihat file [CONTRIBUTING.md] (CONTRIBUTING.md) untuk informasi lebih lanjut.
